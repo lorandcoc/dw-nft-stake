@@ -15,7 +15,7 @@ import {
   
   const nftDropContractAddress = "0xfA9F75eD253B46F4FA3728116Cb6C4661aD6dAbb";
   const tokenContractAddress = "0xe12FcC47Cc439BcDf583613a9Eb3AD074BCF7158";
-  const stakingContractAddress = "0xc2534696a2b3a583382133206DfdE0DfdE268770";
+  const stakingContractAddress = "0x5B8fa3E443b5123d348F1E329822C80652693D40";
   
   const Stake: NextPage = () => {
     // Wallet Connection Hooks
